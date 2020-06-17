@@ -1,0 +1,46 @@
+Car_Fullname,Car_Price_In_INR,Car_Power,Car_Mileage,Car_Fueltype
+BMW X4 xDrive20d,6060000.00,188bhp@4000RPM,16.4 km/liter,Diesel
+BMW X4 xDrive30d,6590000.00,265PS@4000RPM,16.4 km/liter,Diesel
+BMW X4 xDrive30i,6350000.00,248bhp@5200rpm,13.32 km/liter,Petrol
+Toyota Camry Hybrid,3695000.00,178PS@5700rpm,23.2 km/liter,Hybrid
+Mahindra Alturas G4 2WD AT,2695000.00,178bhp@400rpm,12.35 km/liter,Diesel
+Mahindra Alturas G4 4WD AT,2995000.00,178Bhp @ 4000,12.05 km/liter,Diesel
+BMW M2 Competition Coupe,8180000.00,410hp@5230-7000RPM,9.8 km/liter,Petrol
+Porsche Cayenne Diesel,11900000.00,340bhp@5300RPM,11.3 km/liter,Diesel
+Porsche Cayenne E-Hybrid,15800000.00,340bhp@6400RPM,3.4 km/liter,Hybrid
+Porsche Cayenne Turbo,19200000.00,550bhp@6000RPM,16.2 km/liter,Petrol
+Isuzu MU-X 4x2,2627000.00,177PS@3600rpm,13.8 km/liter,Diesel
+Isuzu MU-X 4x4,2823000.00,177PS@3600rpm,13.8 km/liter,Diesel
+Honda CR-V 2WD Petrol CVT,2815000.00,154PS@6500rpm,14.4 km/liter,Petrol
+Honda CR-V 2WD Diesel AT,3065000.00,120PS@4000RPM,19.5 km/liter,Diesel
+Honda CR-V AWD Diesel AT,3275000.00,120PS@4000RPM,18.3 km/liter,Diesel
+Maruti Suzuki Ciaz 1.5L Delta AT Smart Hybrid,980000.00,103Bhp@6000rpm,20.28 km/liter,Petrol
+Maruti Suzuki Ciaz 1.5L Zeta AT Smart Hybrid,1058000.00,103Bhp@6000rpm,20.28 km/liter,Petrol
+Maruti Suzuki Ciaz 1.5L Alpha AT Smart Hybrid,1098000.00,103Bhp@6000rpm,20.28 km/liter,Petrol
+Honda Jazz VX CVT,899000.00,90PS@6000rpm,19 km/liter,Petrol
+Honda Jazz V CVT,855000.00,90PS@6000rpm,19 km/liter,Petrol
+Mini Cooper 5 Door Cooper D,3500000.00,116PS@4000rpm,21.15 km/liter,Petrol
+Mini Convertible Cooper S,3710000.00,192PS@5000-6000rpm,14.59 km/liter,Petrol
+Hyundai Creta 1.6 VTVT SX AT,1374000.00,123PS@6400rpm,15.29 km/liter,Petrol
+Hyundai Creta 1.6 CRDI SX AT,1519000.00,128ps@4000rpm,17.01 km/liter,Diesel
+Mini Countryman Cooper S,3490000.00,192PS@5500rpm,14.41 km/liter,Petrol
+Mini Countryman Cooper SD,3740000.00,190PS@5500rpm,19.19 km/liter,Diesel
+Mini Countryman Cooper S JCW Inspired,4140000.00,192PS@5500rpm,14.41 km/liter,Petrol
+Toyota Yaris VX CVT,1407000.00,107PS@6000rpm,17.8 km/liter,Petrol
+Toyota Yaris V CVT,1290000.00,107PS@6000rpm,17.8 km/liter,Petrol
+Maserati Levante Diesel,14500000.00,275PS@4000rpm,7.9 km/liter,Diesel
+Maserati Levante GranSport,14900000.00,350PS@5750rpm,7.9 km/liter,Diesel
+Maserati Levante GranLusson,15400000.00,430PS@5750rpm,7.9 km/liter,Diesel
+BMW X3 xDrive 20d Expedition,4999000.00,190PS@4000rpm,18.56 km/liter,Diesel
+BMW X3 xDrive 20d Luxury Line,5880000.00,190PS@4000rpm,18.56 km/liter,Diesel
+BMW X3 xDrive 30i Luxury Line,5880000.00,248 bhp @ 5200 rpm,18.56 km/liter,Petrol
+BMW X3 xDrive20d xLine,5475000.00,190PS@4000rpm,18.56 km/liter,Diesel
+Mahindra XUV500 G AT,1588000.00,140PS@4500rpm,13.85 km/liter,Petrol
+Mahindra XUV500 W7 AT,1518000.00,155PS@3750rpm,16 km/liter,Diesel
+Mahindra XUV500 W9 AT,1687000.00,155PS@3750rpm,16 km/liter,Diesel
+Mahindra XUV500 W11 AT,1813000.00,155PS@3750rpm,16 km/liter,Diesel
+Mahindra XUV500 W11 (O) AT,1838000.00,155PS@3750rpm,16 km/liter,Diesel
+Mahindra XUV500 W11 (O) AWD AT,1948000.00,155PS@3750rpm,16 km/liter,Diesel
+Audi RS 5 Coupe,11100000.00,450PS@5700-6700rpm,10.8 km/liter,Petrol
+Toyota Land Cruiser Prado VX L,9260000.00,173PS@3400rpm,11.13 km/liter,Diesel
+BMW M3 Sedan,13000000.00,431PS@7300RPM,10.75 km/liter,Petrol
